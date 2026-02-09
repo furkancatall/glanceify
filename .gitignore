@@ -1,0 +1,19 @@
+# System files
+thumbs.db
+desktop.ini
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Editor directories
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Generated Assets (Optional - remove if you want to track them)
+# store_assets/
