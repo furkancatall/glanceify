@@ -49,7 +49,8 @@
 
 ## Screenshots
 
-*(Coming soon)*
+<img width="800"alt="Glanceify-screenshot" src="https://github.com/user-attachments/assets/18cdb5c8-51d6-4dff-afb2-65c5315c93ca" />
+
 
 ## Tech Stack
 
