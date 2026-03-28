@@ -15,7 +15,7 @@
 ## Installation
 
 ### From Chrome Web Store
-*(Coming soon)*
+[Glanceify](https://chromewebstore.google.com/detail/glanceify/ggplcijbloabllhpbdedenhkldbhknjg)
 
 ### Manual Installation (Developer Mode)
 1. Download or clone this repository
